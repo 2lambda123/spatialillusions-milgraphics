@@ -1,0 +1,70 @@
+repo_name: 2lambda123/spatialillusions-milgraphics
+report_id: a5511844c59a305c582dc2ac29fd6a4a
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T07:55:39+00:00'
+requested_by: spatialillusions
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/spatialillusions-milgraphics
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/spatialillusions-milgraphics/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Måns Beckman
+  last_updated_on: 2017-03-06 17:29:02.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/spatialillusions-milgraphics
+  detection_source: Repo Metadata
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/2lambda123/spatialillusions-milgraphics/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Måns Beckman
+  last_updated_on: 2017-04-16 14:42:01.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/spatialillusions-milgraphics/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Måns Beckman
+  last_updated_on: 2017-03-06 17:29:02.000000000 Z
